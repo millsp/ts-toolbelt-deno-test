@@ -10,7 +10,7 @@ export type Modx = ['?' | '!', 'W' | 'R']
 /**
 Describes the depth strategy when modifying types
 */
-export type Depth = 'flat' | 'deep'
+export type Depth = 'flat' | 'deep.ts'
 
 /**
 Make an object properties (all) `never`. We use this to intersect `object`s and

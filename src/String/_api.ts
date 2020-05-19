@@ -1,4 +1,4 @@
 /** @ignore *//** */
 
-export {Format} from './Format'
-export {String} from './String'
+export {Format} from './Format.ts'
+export {String} from './String.ts'

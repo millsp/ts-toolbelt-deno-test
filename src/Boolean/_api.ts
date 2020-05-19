@@ -1,9 +1,9 @@
 /** @ignore *//** */
 
-export {And} from './And'
-export {True, False, Boolean} from './Boolean'
-export {BooleanOf} from './BooleanOf'
-export {Format} from './Format'
-export {Not} from './Not'
-export {Or} from './Or'
-export {Xor} from './Xor'
+export {And} from './And.ts'
+export {True, False, Boolean} from './Boolean.ts'
+export {BooleanOf} from './BooleanOf.ts'
+export {Format} from './Format.ts'
+export {Not} from './Not.ts'
+export {Or} from './Or.ts'
+export {Xor} from './Xor.ts'

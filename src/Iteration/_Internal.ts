@@ -3,12 +3,12 @@ Describes compatible type formats
 * `s`: **`string`**
 * `n`: **`number`**
 */
-export type Formats = 'n' | 's'
+export type Formats = 'n' | 's.ts'
 
 /**
 Describes how to perform iterations
 */
-export type Way = '->' | '<-'
+export type Way = '->' | '<-.ts'
 
 // ---------------------------------------------------------------------------------------
 

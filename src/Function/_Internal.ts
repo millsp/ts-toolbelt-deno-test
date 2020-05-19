@@ -3,12 +3,12 @@ Describes function modes
 * `sync` : Normal function
 * `async`: Promised result
 */
-export type Mode = 'sync' | 'async'
+export type Mode = 'sync' | 'async.ts'
 
 /**
 Describes function parameter input
 * `multi`: ( a, b, c ... n ) => X
 * `list` : ([a, b, c ... n]) => X
 */
-export type Input = 'multi' | 'list'
+export type Input = 'multi' | 'list.ts'
 

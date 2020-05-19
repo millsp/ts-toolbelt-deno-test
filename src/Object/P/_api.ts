@@ -1,8 +1,8 @@
 /** @ignore *//** */
 
-export {Merge} from './Merge'
-export {Omit} from './Omit'
-export {Pick} from './Pick'
-export {Readonly} from './Readonly'
-export {Update} from './Update'
-export {Record} from './Record'
+export {Merge} from './Merge.ts'
+export {Omit} from './Omit.ts'
+export {Pick} from './Pick.ts'
+export {Readonly} from './Readonly.ts'
+export {Update} from './Update.ts'
+export {Record} from './Record.ts'

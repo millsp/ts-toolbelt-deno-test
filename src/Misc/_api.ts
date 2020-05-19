@@ -5,9 +5,9 @@ import * as Iteration from './Iteration/_api.ts'
 
 export {Iteration}
 export {JSON}
-export {BuiltInObject} from './BuiltInObject'
-export {Primitive} from './Primitive'
+export {BuiltInObject} from './BuiltInObject.ts'
+export {Primitive} from './Primitive.ts'
 
 // LEGACY
 
-export {Promisable} from '../Any/Promisable'
+export {Promisable} from '../Any/Promisable.ts'

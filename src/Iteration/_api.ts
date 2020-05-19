@@ -1,9 +1,9 @@
 /** @ignore *//** */
 
-export {Format} from './Format'
-export {Iteration} from './Iteration'
-export {IterationOf} from './IterationOf'
-export {Key} from './Key'
-export {Next} from './Next'
-export {Pos} from './Pos'
-export {Prev} from './Prev'
+export {Format} from './Format.ts'
+export {Iteration} from './Iteration.ts'
+export {IterationOf} from './IterationOf.ts'
+export {Key} from './Key.ts'
+export {Next} from './Next.ts'
+export {Pos} from './Pos.ts'
+export {Prev} from './Prev.ts'

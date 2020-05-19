@@ -1,3 +1,3 @@
 /** @ignore *//** */
 
-export {IncludesDeep} from './IncludesDeep'
+export {IncludesDeep} from './IncludesDeep.ts'

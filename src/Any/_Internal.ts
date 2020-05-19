@@ -10,7 +10,7 @@ import {NumberMap} from '../Misc/Iteration/Number.ts'
  * * `<-extends` : Y extends  X
  * * `equals`    : X equals   Y
  */
-export type Match = | 'default'
+export type Match = | 'default.ts'
                     | 'implements->'
                     | '<-implements'
                     | 'extends->'

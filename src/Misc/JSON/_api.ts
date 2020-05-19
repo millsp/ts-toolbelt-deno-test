@@ -1,6 +1,6 @@
 /** @ignore *//** */
 
-export {List as Array} from './Array'
-export {Object} from './Object'
-export {Primitive} from './Primitive'
-export {Value} from './Value'
+export {List as Array} from './Array.ts'
+export {Object} from './Object.ts'
+export {Primitive} from './Primitive.ts'
+export {Value} from './Value.ts'
