@@ -4,4 +4,4 @@ Describes compatible type formats
 * `s`: **`string`**
 * `n`: **`number`**
 */
-export type Formats = 'b' | 'n' | 's.ts'
+export type Formats = 'b' | 'n' | 's'

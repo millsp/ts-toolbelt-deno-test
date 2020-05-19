@@ -8,7 +8,7 @@ Describes compatible type formats
 * `n`: **`number`**
 * `s`: **`string`**
 */
-export type Formats = 'b' | 'n' | 's.ts'
+export type Formats = 'b' | 'n' | 's'
 
 /**
  * @hidden
